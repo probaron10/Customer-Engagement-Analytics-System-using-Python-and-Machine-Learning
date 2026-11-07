@@ -1,0 +1,32 @@
+✅ Step 1: Open Anaconda Prompt
+Go to your Windows search bar.
+
+Type Anaconda Prompt and open it.
+
+You’ll see a black terminal window.
+
+✅ Step 2: Navigate to Your Project Folder
+Type:
+
+bash
+cd "C:\Users\proba_oiuhnln\Downloads\Python assignment"
+Press Enter.
+Now you’re inside the folder where app.py is saved.
+
+✅ Step 3: Run the Streamlit App
+Type:
+
+bash
+streamlit run app.py
+Press Enter.
+
+✅ Step 4: Open in Browser
+Streamlit will start a local server.
+
+You’ll see something like:
+
+Code
+Local URL: http://localhost:8501
+Copy that link into your browser.
+
+Your Customer Engagement Analytics Dashboard will appear.
